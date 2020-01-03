@@ -7,7 +7,7 @@ import(
 
 )
 
-func main() {
+func power() {
 	// var wg sync.WaitGroup
 	// salutation := "hello"
 	// wg.Add(1)
