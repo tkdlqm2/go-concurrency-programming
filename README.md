@@ -1,3 +1,3 @@
 # go-concurrency-programming
 
-![image](./images/)
+![image](./images/image.jpg)
